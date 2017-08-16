@@ -1,0 +1,61 @@
+{
+ "name": "flare",
+ "children": [
+  {
+   "name": "kimberlay",
+   "children": [
+    {
+     "name": "CompletionCriteria",
+     "children": [
+      {"name": "SupResponsibilitiesCC", "value": 70},
+      {"name": "ServiceHoursCC", "value": 50},
+      {"name": "ServicesTerminatedCC", "value": 30}
+     ]
+    },
+    {
+     "name": "EscalationProcedure",
+     "children": [
+      {"name": "escaltionTimeline", "value": 30},
+      {"name": "PCRProcedure", "value": 10},
+      {"name": "paymentTerms", "value": 54}
+     ]
+    },
+    {
+     "name": "TLExpenses&Tax",
+     "children": [
+      {"name": "ApplicableTaxes", "value": 23},
+	  {"name": "TravelCharges", "value": 57}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Adidas",
+   "children": [
+    {
+     "name": "CompletionCriteria",
+     "children": [
+      {"name": "SupResponsibilitiesCC", "value": 70},
+      {"name": "ServiceHoursCC", "value": 50},
+      {"name": "ServicesTerminatedCC", "value": 30}
+     ]
+    },
+    {
+     "name": "EscalationProcedure",
+     "children": [
+      {"name": "escaltionTimeline", "value": 30},
+      {"name": "PCRProcedure", "value": 10},
+      {"name": "paymentTerms", "value": 54}
+     ]
+    },
+    {
+     "name": "TLExpenses&Tax",
+     "children": [
+      {"name": "ApplicableTaxes", "value": 23},
+	  {"name": "TravelCharges", "value": 57}
+     ]
+    }
+   ]
+  }
+ ]
+}
